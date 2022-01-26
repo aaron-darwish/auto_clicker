@@ -4,5 +4,5 @@ Edit the shell script to specify the required cursor positions. To determine the
 # Termination signal
 By pressing on the **caps-lock** key, you will issue a stop command that terminates the loop after the last iteration has finished.
 
-## Potential uses
-A clicking bot. Automate repetitive clicking tasks.
+# Potential uses
+As a clicking bot. Automate repetitive clicking tasks.
